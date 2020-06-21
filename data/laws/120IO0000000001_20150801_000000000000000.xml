@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="ImperialOrder" Num="1" Year="20">
+  <LawNum>明治二十年勅令第一号</LawNum>
+  <LawBody>
+    <LawTitle>海底電信線保護万国連合条約ノ説明書</LawTitle>
+    <Preamble>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">明治十八年七月第十七号布告海底電信線保護万国連合条約ノ意義ヲ明確ニスル為メ各国全権委員ノ議定シタル説明書</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </Preamble>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">明治十七年三月十四日（西暦千八百八十四年）ノ海底電信線保護万国連合条約ニ調印セシ各政府ヨリ出セル下名ノ全権委員ハ該条約第二条及第四条ノ意義ヲ明確ニスルヲ便宜ナリト認メタルニ依リ同意ノ上説明書ヲ決定セリ</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">明治十七年三月十四日（西暦千八百八十四年）ノ条約第二条中ニ記入セル「故意」ト云ヘル文字ノ意義ニ疑惑ヲ生シタルニ依リ右箇条中刑事上ノ責任ニ付テノ規定ハ海底電信線ノ切断又ハ破損ヲ予防スル為メ精々注意ヲ加フルト雖モ其修繕ノ際不慮ノ事ニ依リ或ハ已ムヲ得スシテ他ノ海底電信線ヲ切断又ハ破損セシメタルトキニハ之ヲ適施セサルモノト約定ス</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">又該条約第四条ハ海底電信線ノ所有者其海底電信線ヲ布設シ又ハ修繕スルノ際他ノ海底電信線ヲ切断又ハ破損セシメタルトキ各国ノ相当裁判所ヲシテ其法律ト事件ノ情状トニ従ヒ民事上責任ノ有無ヲ判定セシメ果シテ其責任アルコトヲ認定シタル上ハ其責任ノ結果ヲ決定セシムルコトノ外他ノ目的ヲ有セサリシコト且他ノ効力ヲ有ス可ラサルコトヲ約定ス</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="4" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">明治十九年十二月一日（西暦千八百八十六年）各国全権委員巴里ニ於テ調印ス日耳曼全権委員ハ明治二十年三月二十三日（西暦千八百八十七年）同所ニ於テ調印ス</Sentence>
+        </ParagraphSentence>
+        <TableStruct>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">日本全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">原　　　　敬</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">手記調印</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">日耳曼全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ミユンストル</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">亜爾惹丁全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ジヨゼ、セー、パツ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">澳地利洪牙利全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ゴルコウスキ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">白耳義全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ベイヤン</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">伯西爾全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">アリノス</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">哥斯太利加全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">エル、フェルナンデ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">丁抹全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">モルトケ、ウ井トフェルド</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">度美尼哥全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">エマニュエル、ド、アルメダ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">西班牙全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ジー、エル、アルバレダ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">北米合衆国全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">マク、レーヌ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">法蘭西全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">セー、ド、フレシ子</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">大不列顛全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ライオンス</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">牙徳麻刺全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">クリサント、メヂナ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">希臘全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">デリアンニ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">伊太利全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">メナブレア</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">和蘭全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ア、ド、スツエルス</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">葡萄牙全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">コント、ド、ウアルボン</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">羅瑪尼全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ウエー、アレクサンドリ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">露西亜全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ロツエブエ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">薩爾波度全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ペクトル</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">摂兒比亜全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">マリノウ井ッチ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">瑞典諾威全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">レウエンハウト</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">土耳其全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">エツサド</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">烏拉芸全権委員</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">ジユアン、ジー、ヂアツ</Sentence>
+              </TableColumn>
+              <TableColumn Align="left" BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+                <Sentence WritingMode="vertical">同</Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+        </TableStruct>
+      </Paragraph>
+    </MainProvision>
+  </LawBody>
+</Law>

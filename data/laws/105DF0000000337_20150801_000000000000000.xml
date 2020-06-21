@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="CabinetOrder" Num="337" Year="05">
+  <LawNum>明治五年太政官布告第三百三十七号</LawNum>
+  <LawBody>
+    <LawTitle>明治五年太政官布告第三百三十七号（改暦ノ布告）</LawTitle>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">今般改暦ノ儀別紙　詔書ノ通被　仰出候条此旨相達候事</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+    <AppdxNote>
+      <AppdxNoteTitle WritingMode="vertical">（別紙）</AppdxNoteTitle>
+      <NoteStruct>
+        <NoteStructTitle>詔書写</NoteStructTitle>
+        <Note>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">朕惟フニ我邦通行ノ暦タル太陰ノ朔望ヲ以テ月ヲ立テ太陽ノ躔度ニ合ス故ニ二三年間必ス閏月ヲ置カサルヲ得ス置閏ノ前後時ニ季候ノ早晩アリ終ニ推歩ノ差ヲ生スルニ至ル殊ニ中下段ニ掲ル所ノ如キハ率子妄誕無稽ニ属シ人知ノ開達ヲ妨ルモノ少シトセス盖シ太陽暦ハ太陽ノ躔度ニ従テ月ヲ立ツ日子多少ノ異アリト雖モ季候早晩ノ変ナク四歳毎ニ一日ノ閏ヲ置キ七千年ノ後僅ニ一日ノ差ヲ生スルニ過キス之ヲ太陰暦ニ比スレハ最モ精密ニシテ其便不便モ固リ論ヲ俟タサルナリ依テ自今旧暦ヲ廃シ太陽暦ヲ用ヒ天下永世之ヲ遵行セシメン百官有司其レ斯旨ヲ体セヨ</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">　　　明治五年壬申十一月九日</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">　　　　　　○</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence WritingMode="vertical">今般太陰暦ヲ廃シ太陽暦御頒行相成候ニ付来ル十二月三日ヲ以テ明治六年一月一日ト被定候事</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">但新暦鏤板出来次第頒布候事</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">一ケ年三百六十五日十二ケ月ニ分チ四年毎ニ一日ノ閏ヲ置候事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">時刻ノ儀是迄昼夜長短ニ随ヒ十二時ニ相分チ候処今後改テ時辰儀時刻昼夜平分二十四時ニ定メ子刻ヨリ午刻迄ヲ十二時ニ分チ午前幾時ト称シ午刻ヨリ子刻迄ヲ十二時ニ分チ午後幾時ト称候事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column LineBreak="true" Num="1">
+                  <Sentence WritingMode="vertical">時鐘ノ儀来ル一月一日ヨリ右時刻ニ可改事</Sentence>
+                </Column>
+                <Column LineBreak="false" Num="2">
+                  <Sentence WritingMode="vertical">但是迄時辰儀時刻ヲ何字ト唱来候処以後何時ト可称事</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">諸祭典等旧暦月日ヲ新暦月日ニ相当シ施行可致事</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Note>
+      </NoteStruct>
+    </AppdxNote>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">太陽暦　一年三百六十五日　閏年三百六十六日四年毎ニ置之</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">一月大</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">即旧暦壬申</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">十二月三日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">二月小</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">二十八日閏年／二十九日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同癸酉</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">正月四日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三月大</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">二月三日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">四月小</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三月五日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">五月大</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">四月五日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">六月小</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">五月七日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">七月大</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">六月七日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">八月大</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">閏六月九日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">九月小</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">七月十日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">十月大</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">八月十日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">十一月小</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">九月十二日</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">十二月大</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">三十一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">其一日</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">同</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+              <Sentence WritingMode="vertical">十月十二日</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+        <Remarks>
+          <RemarksLabel LineBreak="false">
+          </RemarksLabel>
+          <Sentence WritingMode="vertical">大小毎年替ルコトナシ</Sentence>
+        </Remarks>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">時刻表</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="4">
+              <Sentence WritingMode="vertical">午前</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">零時　即午後十二時　子刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一時　子半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二時　丑刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三時　丑半刻</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四時　寅刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五時　寅半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">六時　卯刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">七時　卯半刻</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八時　辰刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九時　辰半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十時　巳刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十一時　巳半刻</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二時　午刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">
+              </Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">
+              </Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">
+              </Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="3">
+              <Sentence WritingMode="vertical">午後</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">一時　午半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">二時　未刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">三時　未半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">四時　申刻</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">五時　申半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">六時　酉刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">七時　酉半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">八時　戌刻</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">九時　戌半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十時　亥刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十一時　亥半刻</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">十二時　子刻</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+        <Remarks>
+          <RemarksLabel LineBreak="false">
+          </RemarksLabel>
+          <Sentence WritingMode="vertical">右之通被定候事</Sentence>
+        </Remarks>
+      </TableStruct>
+    </AppdxTable>
+  </LawBody>
+</Law>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="077" Year="16">
+  <LawNum>平成十六年経済産業省令第七十七号</LawNum>
+  <LawBody>
+    <LawTitle>ガス事業部門別収支計算規則</LawTitle>
+    <EnactStatement>ガス事業法（昭和二十九年法律第五十一号）第二十六条の二の規定に基づき、及び同法を実施するため、ガス事業部門別収支計算規則を次のように定める。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　一般ガス事業に係る部門別収支の整理等</ChapterTitle>
+        <ArticleRange>（第二条―第五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　簡易ガス事業に係る部門別収支の整理等</ChapterTitle>
+        <ArticleRange>（第六条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この省令において使用する用語は、ガス事業法（以下「法」という。）、ガス事業法施行規則（昭和四十五年通商産業省令第九十七号）、ガス事業会計規則（昭和二十九年通商産業省令第十五号）、一般ガス事業供給約款料金算定規則（平成十六年経済産業省令第十六号）及び簡易ガス事業供給約款料金算定規則（平成十六年経済産業省令第四十四号）において使用する用語の例による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　一般ガス事業に係る部門別収支の整理等</ChapterTitle>
+        <Article Num="2">
+          <ArticleCaption>（一般ガス事業に係る部門別収支の整理）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法第二十六条の二第一項の規定により、業務ごとに区分して会計を整理しようとする一般ガス事業者（大口供給を行う者に限る。以下単に「一般ガス事業者」という。）は、当該一般ガス事業者が行うガス事業に係る収益及び費用について、別表第一に掲げる方法に基づき、様式第一に整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前項の場合において、一般ガス事業者の実情に応じた方法により、業務ごとに区分して会計を整理することが適当である場合であって、一般ガス事業者が当該方法を、あらかじめ様式第二により、経済産業大臣（ガス事業法施行令（昭和二十九年政令第六十八号）第十三条の表第一号に規定する一般ガス事業者については、その供給区域を管轄する経済産業局長。この項及び第五条において同じ。）に届け出たときは、当該方法により様式第一に整理することができる。</Sentence>
+              <Sentence Num="2">この場合において、経済産業大臣は、当該方法を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（監査証明書）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1">一般ガス事業者は、様式第一が別表第一に掲げる方法に基づいて適正に作成されていることについての公認会計士（公認会計士法（昭和二十三年法律第百三号）第十六条の二第五項に規定する外国公認会計士を含む。）又は監査法人による証明書を得なければならない。</Sentence>
+              <Sentence Function="proviso" Num="2">ただし、当該一般ガス事業者が地方公共団体である場合は、地方自治法（昭和二十二年法律第六十七号）第百九十五条第一項に規定する監査委員による証明書に代えることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（一般ガス事業に係る部門別収支計算書等の提出等）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>一般ガス事業者は、毎事業年度経過後四月以内に法第二十六条の二第二項の規定による提出を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の場合において、地方公共団体である一般ガス事業者については、「四月以内」とあるのは「地方公営企業法（昭和二十七年法律第二百九十二号）第三十条第四項の規定による議会の認定を得た後三日以内」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>一般ガス事業者が、法第二十六条の二第二項の規定により提出すべき書類は、様式第一及び前条の証明書とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（大口需要部門の当期純損失金額の公表）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>経済産業大臣は、法第二十六条の二第二項の規定により提出された前条第三項の書類において、大口需要部門に当期純損失が生じたときは、当該一般ガス事業者名及び大口需要部門の当該純損失金額を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　簡易ガス事業に係る部門別収支の整理等</ChapterTitle>
+        <Article Num="6">
+          <ArticleCaption>（簡易ガス事業に係る部門別収支の整理）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>簡易ガス事業者（特定大口供給を行う者に限る。）は、当該簡易ガス事業者が特定大口供給を行う供給地点を含む供給地点群ごとに、当該供給地点群に係る収益及び費用について、別表第二に掲げる方法に基づき、様式第三に整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">第二条第二項の規定は、前項の簡易ガス事業者に準用する。</Sentence>
+              <Sentence Num="2">この場合において、同項中「経済産業大臣（ガス事業法施行令（昭和二十九年政令第六十八号）第十三条の表第一号に規定する一般ガス事業者については、その供給区域を管轄する経済産業局長。この項及び第五条において同じ。）」とあるのは「その供給地点群を管轄する経済産業局長」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（簡易ガス事業に係る部門別収支計算書の提出）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条の簡易ガス事業者は、供給地点群ごとに様式第三を、毎事業年度経過後四月以内にその供給地点群を管轄する経済産業局長に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第四条第二項の規定は、前項の簡易ガス事業者に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（特定ガス大口需要部門の当期純損失金額の公表）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条第一項の経済産業局長は、前条第一項の規定により提出された様式第三において、特定ガス大口需要部門に当期純損失が生じたときは、当該簡易ガス事業者名及び特定ガス大口需要部門の当該純損失金額を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、公布の日から施行し、平成十六年四月一日以後開始する事業年度に係る業務の区分ごとの収支の整理について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年一二月二八日経済産業省令第一二五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この省令は、平成十九年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年三月二三日経済産業省令第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この省令は、電気事業法及びガス事業法の一部を改正する法律の施行の日（平成二十四年四月一日）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中電気事業法施行規則附則第十七条の改正規定及び次条から附則第九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（ガス事業部門別収支計算規則の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この省令による改正後のガス事業部門別収支計算規則（次項において「新規則」という。）の規定は、平成二十四年四月一日以後に開始する事業年度に係る業務の区分ごとの収支の整理について適用し、同日前に開始する事業年度に係るものについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この省令の施行の後、事業者が附則第五条第二項及び附則第六条第二項の規定を適用している場合は、新規則第二条に規定するガス事業に係る部門別収支配賦方法については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
+      <AppdxTableTitle>別表第１</AppdxTableTitle>
+      <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
+      <Item Num="1">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence>ガス事業に係る部門別収支配賦方法</Sentence>
+        </ItemSentence>
+        <Subitem1 Num="1">
+          <Subitem1Title>１</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence>ガス事業に係る収益及び費用のうち、大口需要部門、小口需要部門又はその他部門の収益及び費用として特定できるものは、それぞれの部門に直接配賦すること。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>２</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence>ガス事業に係る収益及び費用のうち、大口需要部門、小口需要部門又はその他部門の収益及び費用として特定できないものは、次の方法によって配賦を行うこと。</Sentence>
+          </Subitem1Sentence>
+          <Subitem2 Num="1">
+            <Subitem2Title>（１）</Subitem2Title>
+            <Subitem2Sentence>
+              <Sentence>事業税を除く営業費、営業雑収益、営業雑費用、附帯事業収益、附帯事業費用、営業外費用並びに受取利息及び受取配当金その他の資金運用に係る収益以外の営業外収益については、１から６までの方法によって（２）に掲げる収益及び費用の各項目に配賦すること。</Sentence>
+            </Subitem2Sentence>
+            <Subitem3 Num="1">
+              <Subitem3Title>１</Subitem3Title>
+              <Subitem3Sentence>
+                <Sentence>事業税を除く営業費、営業雑収益、営業雑費用、附帯事業収益、附帯事業費用、営業外費用及び資金運用に係る収益以外の営業外収益のうち、（２）に掲げる収益及び費用の各項目に特定できるものは、それぞれの項目に直接配賦すること。</Sentence>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="2">
+              <Subitem3Title>２</Subitem3Title>
+              <Subitem3Sentence>
+                <Sentence>事業税を除く営業費のうち、（２）に掲げる収益及び費用の各項目に特定できないものであって、以下に掲げるものは、次の基準によって配賦すること。</Sentence>
+              </Subitem3Sentence>
+              <List>
+                <ListSentence>
+                  <Sentence>製造費</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>労務費　人員比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>修繕費　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>電力料　電力使用量比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>水道料　水道使用量比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>消耗品費　人員比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>租税課金　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>固定資産除却費　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>その他製造費　人員比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>減価償却費　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>供給販売費</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>労務費　人員比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>修繕費　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>消耗品費　人員比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>賃借料</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>導管関連　導管延長比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>その他　人員比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>租税課金（事業税を除く）</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>固定資産税　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>道路占用料　導管延長比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>その他　人員比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>固定資産除却費　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>その他供給販売費　人員比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>減価償却費　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+            </Subitem3>
+            <Subitem3 Num="3">
+              <Subitem3Title>３</Subitem3Title>
+              <Subitem3Sentence>
+                <Sentence>事業税を除く営業費のうち、一般管理費については、業務内容に応じて区分し、（２）に掲げる収益及び費用の各項目のいずれかに特定できるものは当該各項目に直接配賦し、それ以外のもので客観的かつ合理的な基準を設定できるものは当該基準により各項目に配賦し、客観的かつ合理的な基準を設定できないものは各項目の金額比によって各項目に配賦すること。</Sentence>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="4">
+              <Subitem3Title>４</Subitem3Title>
+              <Subitem3Sentence>
+                <Sentence>３の規定にかかわらず、当該事業年度の前事業年度末におけるガスメーター取付数が１万個未満の一般ガス事業者で、供給販売費と一般管理費を区分して整理している者は、１及び２の配賦をした後の（２）に掲げる収益及び費用の各項目の金額比によって配賦し、供給販売費と一般管理費を併せて整理している者は、２の供給販売費の基準によって供給販売費及び一般管理費を配賦すること。</Sentence>
+              </Subitem3Sentence>
+            </Subitem3>
+            <Subitem3 Num="5">
+              <Subitem3Title>５</Subitem3Title>
+              <Subitem3Sentence>
+                <Sentence>営業雑収益、営業雑費用、附帯事業収益、附帯事業費用、営業外費用及び資金運用に係る収益以外の営業外収益のうち、（２）に掲げる収益及び費用の各項目に特定できないものであって、以下に掲げるものは、次の基準によって配賦すること。</Sentence>
+              </Subitem3Sentence>
+              <List>
+                <ListSentence>
+                  <Sentence>導管関連営業外費用　導管延長比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>導管関連営業外収益　導管延長比</Sentence>
+                </ListSentence>
+              </List>
+              <List>
+                <ListSentence>
+                  <Sentence>資金調達に係る営業外費用　固定資産金額比</Sentence>
+                </ListSentence>
+              </List>
+            </Subitem3>
+            <Subitem3 Num="6">
+              <Subitem3Title>６</Subitem3Title>
+              <Subitem3Sentence>
+                <Sentence>営業雑収益、営業雑費用、附帯事業収益、附帯事業費用、営業外費用及び資金運用に係る収益以外の営業外収益のうち、５に掲げる目以外の項目については、（２）に掲げる収益及び費用の各項目の金額比によって配賦すること。</Sentence>
+              </Subitem3Sentence>
+            </Subitem3>
+          </Subitem2>
+          <Subitem2 Num="1">
+            <Subitem2Title>（２）</Subitem2Title>
+            <Subitem2Sentence>
+              <Sentence>（１）１から６までの配賦をした収益及び費用、事業税（利益に関連する金額を課税標準とするものを除く。）、資金運用に係る営業外収益、特別損益、法人税等並びに法人税等調整額については、次の基準によって大口需要部門、小口需要部門及びその他部門に配賦すること。</Sentence>
+            </Subitem2Sentence>
+            <List>
+              <ListSentence>
+                <Sentence>従量費用　年間ガス販売量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>製造需要費</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>ＬＮＧ受入　年間ガス販売量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>ＬＮＧ貯蔵　ピーク期ガス販売量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>ＬＮＧ圧送・気化・熱調　ピーク最大流量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>その他工場　ピーク月ガス販売量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>圧送・ホルダー費用　ピーク月ガス販売量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>供給需要費</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>高圧　ピーク最大流量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>中圧　１時間当たりの最大流量比とピーク最大流量比が１対１の複合基準</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>中圧A導管と中圧B導管に区分するときは</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>中圧A　ピーク最大流量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>中圧B　1時間当たりの最大流量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>低圧　1時間当たりの最大流量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>需要家費用</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>供給管・メーター　1時間当たりの最大流量比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>検針　延検針件数比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>集金　延調定件数比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>業務用関連費用　対象需要家延調定件数比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>需要家共通　延調定件数比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>大口部門特定費用　大口需要部門に直接配賦</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>小口部門特定費用　小口需要部門に直接配賦</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>その他部門特定費用　その他部門に直接配賦</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>事業税　ガス売上高比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>資金運用に係る営業外収益　売上高比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>特別損益　発生の主たる要因</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>法人税等　利益比</Sentence>
+              </ListSentence>
+            </List>
+            <List>
+              <ListSentence>
+                <Sentence>法人税等調整額　利益比</Sentence>
+              </ListSentence>
+            </List>
+          </Subitem2>
+        </Subitem1>
+      </Item>
+    </AppdxTable>
+    <AppdxTable>
+      <AppdxTableTitle>別表第２</AppdxTableTitle>
+      <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
+      <Item Num="1">
+        <ItemTitle/>
+        <ItemSentence>
+          <Sentence>簡易ガス事業に係る部門別収支配賦方法</Sentence>
+        </ItemSentence>
+        <Subitem1 Num="1">
+          <Subitem1Title>１</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence>簡易ガス事業に係る収益及び費用のうち、特定ガス大口需要部門、小口需要部門又はその他部門の収益及び費用として特定できるものは、それぞれの部門に直接配賦すること。</Sentence>
+          </Subitem1Sentence>
+        </Subitem1>
+        <Subitem1 Num="2">
+          <Subitem1Title>２</Subitem1Title>
+          <Subitem1Sentence>
+            <Sentence>簡易ガス事業に係る収益及び費用のうち、特定ガス大口需要部門、小口需要部門又はその他部門の収益及び費用として特定できないものであって、以下に掲げるものについては、次の基準によって配賦すること。</Sentence>
+          </Subitem1Sentence>
+          <List>
+            <ListSentence>
+              <Sentence>原料費　年間ガス販売量比</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>加熱燃料費　年間ガス販売量比</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>労務費　延調定地点数比</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>修繕費　年間ガス販売量比</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>委託作業費　延調定地点数比</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>租税課金　年間ガス販売量比</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>雑費　延調定地点数比</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>減価償却費</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>導管に係るもの　延メーター通過量比</Sentence>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Sentence>それ以外のもの　ピーク月販売量比</Sentence>
+            </ListSentence>
+          </List>
+        </Subitem1>
+      </Item>
+      <Remarks>
+        <RemarksLabel>注</RemarksLabel>
+        <Sentence>ガス事業会計規則別表第２注１の規定により２以上の供給地点群に係る収益及び費用を一括して整理した場合は、１及び２の方法によらないことができる。この場合においては、一括して整理した旨を記載すること。</Sentence>
+      </Remarks>
+    </AppdxTable>
+    <AppdxStyle>
+      <AppdxStyleTitle>様式第１</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src=""/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>様式第２</AppdxStyleTitle>
+      <RelatedArticleNum>（第２条、第６条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src=""/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+    <AppdxStyle>
+      <AppdxStyleTitle>様式第３</AppdxStyleTitle>
+      <RelatedArticleNum>（第６条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src=""/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

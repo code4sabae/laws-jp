@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law DataInfo="190624e01k01m01" Era="Heisei" Lang="ja" LawType="CabinetOrder" Num="224" Year="28">
+  <LawNum>平成二十八年政令第二百二十四号</LawNum>
+  <LawBody>
+    <LawTitle>重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令</LawTitle>
+    <EnactStatement>内閣は、国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第二条第一項第一号ハ及び第六条第一項の規定に基づき、この政令を制定する。</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（法第二条第一項第一号ハの政令で定める国の行政機関及びその庁舎）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号。以下「法」という。）第二条第一項第一号ハの政令で定める国の行政機関は、次の表の上欄に掲げるとおりとし、同号ハの政令で定める庁舎は、同表の上欄に掲げる国の行政機関ごとに、それぞれ同表の下欄に掲げるとおりとする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn Align="center" Valign="top">
+                  <Sentence>国の行政機関</Sentence>
+                </TableColumn>
+                <TableColumn Align="center" Valign="top">
+                  <Sentence>庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>内閣官房</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一　東京都千代田区永田町一丁目六番一号に所在する庁舎</Sentence>
+                  <Sentence>二　東京都千代田区永田町二丁目四番十二号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>内閣府</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一　東京都千代田区永田町一丁目六番一号に所在する庁舎</Sentence>
+                  <Sentence>二　東京都港区赤坂五丁目二番二十号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>国家公安委員会</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関二丁目一番二号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>総務省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関二丁目一番二号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>法務省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関一丁目一番一号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>外務省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関二丁目二番一号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>財務省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関三丁目一番一号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>文部科学省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関三丁目二番二号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>厚生労働省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関一丁目二番二号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>農林水産省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関一丁目二番一号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>経済産業省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都千代田区霞が関一丁目三番一号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>国土交通省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一　東京都千代田区霞が関二丁目一番二号に所在する庁舎</Sentence>
+                  <Sentence>二　東京都千代田区霞が関二丁目一番三号に所在する庁舎</Sentence>
+                  <Sentence>三　東京都千代田区大手町一丁目三番四号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>環境省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>一　東京都千代田区霞が関一丁目二番二号に所在する庁舎</Sentence>
+                  <Sentence>二　東京都港区六本木一丁目九番九号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn Valign="top">
+                  <Sentence>防衛省</Sentence>
+                </TableColumn>
+                <TableColumn Valign="top">
+                  <Sentence>東京都新宿区市谷本村町五番一号に所在する庁舎</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（法第七条第一項の政令で定める原子力事業所）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法第七条第一項の政令で定める原子力事業所は、原子力災害対策特別措置法（平成十一年法律第百五十六号）第二条第四号に規定する原子力事業所とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、法附則第一条ただし書に規定する規定の施行の日（平成二十八年五月二十三日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日政令第一六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>この政令は、国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律等の一部を改正する法律の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law DataInfo="200402e80k80m01" Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="49" Year="17">
+  <LawNum>平成十七年文部科学省令第四十九号</LawNum>
+  <LawBody>
+    <LawTitle>試験研究の用に供する原子炉等に係る放射能濃度についての確認等に関する規則</LawTitle>
+    <EnactStatement>核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第六十一条の二第一項及び第二項の規定に基づき、並びに同法を実施するため、試験研究の用に供する原子炉等に係る放射能濃度についての確認等に関する規則を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（適用範囲）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則は、特定試験研究用等原子炉（試験研究の用に供する試験研究用等原子炉（船舶に設置するものを除く。）及び船舶に設置する軽水減速加圧軽水冷却型原子炉（減速材及び冷却材として加圧軽水を使用する原子炉であって蒸気発生器が構造上原子炉圧力容器の外部にあるものをいう。）であって研究開発段階にある試験研究用等原子炉をいう。）を設置した者（当該原子炉に係る旧試験研究用等原子炉設置者等を含む。以下「試験研究炉等設置者等」という。）又は使用者（旧使用者等を含む。以下同じ。）について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="1_2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第一条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則において使用する用語は、核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」という。）において使用する用語の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則において「放射能濃度確認対象物」とは、試験研究炉等設置者等又は使用者が工場等において用いた資材その他の物であって、法第六十一条の二第一項の確認を受けようとするものをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則において「評価単位」とは、放射能濃度確認対象物に含まれる放射性物質の放射能濃度の測定及び評価を行う範囲をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則において「評価対象放射性物質」とは、評価単位に含まれる放射性物質であって、法第六十一条の二第二項の認可を受けた放射能濃度の測定及び評価の方法に基づき、測定及び評価を行うものをいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（放射能濃度の基準）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第六十一条の二第一項の原子力規制委員会規則で定める基準は、評価単位ごとの評価対象放射性物質の平均放射能濃度が次の各号に掲げる場合の区分に応じ、いずれも当該各号に定める放射能濃度であることとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">評価対象放射性物質の種類が一種類の場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別表の第一欄に掲げる放射能濃度確認対象物及び同表の第二欄に掲げる評価対象放射性物質の種類に応じて、同表の第三欄に掲げる放射能濃度</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">評価対象放射性物質の種類が二種類以上の場合</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">別表の第一欄に掲げる放射能濃度確認対象物に応じて、同表の第二欄に掲げる評価対象放射性物質の種類ごとの放射能濃度のそれぞれ同表の第三欄に掲げる放射能濃度に対する割合の和が一となるようなそれらの放射能濃度</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（放射能濃度の確認の申請）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第六十一条の二第一項の確認を受けようとする者は、放射能濃度確認対象物に含まれる放射性物質の放射能濃度の測定及び評価の結果に関する事項のほか、次に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物に係る工場等の名称及び所在地（船舶にあっては、その船舶の名称）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物を用いていた場所</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物の種類及び総重量</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物の保管場所及び保管方法</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の申請書には、法第六十一条の二第二項の認可を受けた放射能濃度の測定及び評価の方法に基づき測定及び評価が行われたことを示す記録を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本、副本及び写し各一通とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3_2">
+        <ArticleCaption>（放射能濃度に関する確認実施要領書）</ArticleCaption>
+        <ArticleTitle>第三条の二</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">原子力規制委員会は、前条の申請書の提出を受けた場合には、第二条各号に掲げる事項の確認の方法その他必要な事項を定めた当該申請に係る確認実施要領書を定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（放射能濃度の確認等）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">原子力規制委員会は、法第六十一条の二第一項の規定により、次に掲げる事項の確認をしたときは、確認証を交付する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物に含まれる放射性物質の放射能濃度の測定及び評価が、法第六十一条の二第二項の認可を受けた方法に基づき行われたこと。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物に含まれる放射性物質についての放射能濃度が、第二条に規定する放射能濃度の基準を超えていないこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（測定及び評価の方法の認可の申請）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">放射能濃度の測定及び評価の方法の認可を受けようとする者は、法第六十一条の二第二項の規定により、次に掲げる事項を記載した申請書を原子力規制委員会に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度の測定及び評価に係る工場等の名称及び所在地（船舶にあっては、その船舶の名称）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度の測定及び評価に係る施設の名称</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物の種類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">評価単位</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">評価対象放射性物質の種類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度を決定する方法</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射線測定装置の種類及び測定条件</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物の保管場所及び保管方法</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前項の申請書には、次に掲げる事項について説明した書類を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度の測定及び評価に係る施設に関すること</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物の発生状況、材質、汚染の状況及び推定量に関すること</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">評価単位に関すること</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">評価対象放射性物質の選択に関すること</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度を決定する方法に関すること</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射線測定装置の選択及び測定条件の設定に関すること</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度の測定及び評価のための品質保証に関すること</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前各号に掲げる事項のほか、原子力規制委員会が必要と認める事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一項の申請書の提出部数は、正本及び写し各一通とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（測定及び評価の方法の認可の基準）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">原子力規制委員会は、法第六十一条の二第二項の放射能濃度の測定及び評価の方法の認可の申請があった場合において、その申請が次に掲げる基準に適合していると認めるときは、同項の認可をしなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">評価単位は、その単位内の放射能濃度の分布の均一性及び想定される放射能濃度を考慮し適切な重量であること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">評価対象放射性物質は、評価単位に含まれる放射性物質のうち放射線量を評価する上で重要なものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">放射能濃度を決定する場合には、放射線測定装置を用いて、放射能濃度確認対象物の汚染の状況を考慮し適切に行うこと。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、放射線測定装置を用いて測定することが困難である場合には、適切に設定された放射性物質の組成比、計算その他の方法を用いて放射能濃度を決定することができる。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射線測定装置の選択及び測定条件の設定は、次によるものであること。</Sentence>
+            </ItemSentence>
+            <Subitem1 Delete="false" Hide="false" Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">放射線測定装置は、放射能濃度確認対象物の形状、材質、評価単位及び汚染の状況等に応じ適切なものであること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Delete="false" Hide="false" Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence WritingMode="vertical">放射能濃度の測定条件は、第二条に規定する基準を超えないかどうかを適切に判断できるものであること。</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">放射能濃度確認対象物について、異物が混入されず、かつ、放射性物質によって汚染されないよう適切な措置が講じられていること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleCaption>（記録の保管）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法第六十一条の二第二項の放射能濃度の測定及び評価の方法の認可を受けた者は、次の表の上欄に掲げる事項について、それぞれ同表の中欄に掲げるところに従って記録し、それぞれ同表の下欄に掲げる期間これを保存して置かなければならない。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">記録事項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">記録すべき場合</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">保存期間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">一　放射能濃度確認対象物の種類、発生日時及び場所</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">発生の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">二　評価単位ごとの重量</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">測定の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">三　評価対象放射性物質の放射能濃度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">測定の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">四　放射能濃度の決定に当たり、放射性物質の組成比を用いる場合は、組成比の測定を行った結果</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">測定の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">五　放射能濃度の決定に当たり、計算によって放射能濃度を算出した場合は、その計算条件及び計算の結果</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">計算の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">六　放射能濃度の決定に当たり、放射能濃度確認対象物について放射性物質による汚染の除去を行った場合は、汚染の除去を行った後の放射能濃度を測定した結果</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">測定の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">七　放射性物質の放射能濃度の測定に用いた放射線測定装置及び測定条件</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">測定の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">八　放射線測定装置の点検及び校正の結果</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">点検又は校正の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">九　放射能濃度確認対象物の保管場所及び保管方法</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">保管又は保管場所若しくは保管方法の変更の都度</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence WritingMode="vertical">工場等から搬出された後十年間</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">削除</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="11">
+        <ArticleCaption>（電磁的記録媒体による手続）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">次の各号に掲げる申請書の提出については、当該申請書の提出に代えて、当該申請書に記載すべきこととされている事項を記録した電磁的記録媒体（電磁的記録（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）に係る記録媒体をいう。以下同じ。）及び別記様式の電磁的記録媒体提出票を提出することにより行うことができる。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第三条第一項の申請書</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">第五条第一項の申請書</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律（平成十七年法律第四十四号）の施行の日（平成十七年十二月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年二月一日文部科学省令第二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年九月一四日文部科学省令第三二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、原子力規制委員会設置法（平成二十四年法律第四十七号）の施行の日（平成二十四年九月十九日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年六月二八日原子力規制委員会規則第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則は、原子力規制委員会設置法（平成二十四年法律第四十七号。以下「設置法」という。）附則第一条第四号に掲げる規定の施行の日（平成二十五年七月八日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年一二月六日原子力規制委員会規則第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この規則は、原子力規制委員会設置法（平成二十四年法律第四十七号。以下「設置法」という。）附則第一条第五号に掲げる規定の施行の日（平成二十五年十二月十八日。以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年二月二八日原子力規制委員会規則第一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、独立行政法人原子力安全基盤機構の解散に関する法律の施行の日（平成二十六年三月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月八日原子力規制委員会規則第六号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この規則は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年七月一日原子力規制委員会規則第三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この規則は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四十四条の規定は、放射性同位元素等による放射線障害の防止に関する法律施行規則の一部を改正する規則（平成三十年原子力規制委員会規則第十一号）の施行の日（令和元年九月一日）から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表（第２条関係）</AppdxTableTitle>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第一欄</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第二欄</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">第三欄</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">放射能濃度確認対象物</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">評価対象放射性物質の種類</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">放射能濃度（Ｂｑ／ｇ）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="33">
+              <Sentence WritingMode="vertical">一　試験研究炉等設置者等が試験研究用等原子炉施設において用いた資材その他の物であって金属くず、コンクリート破片又はガラスくず（ロックウール及びグラスウールに限る。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３Ｈ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１４Ｃ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３６Ｃｌ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４１Ｃａ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４６Ｓｃ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５４Ｍｎ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５５Ｆｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５９Ｆｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５８Ｃｏ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">６０Ｃｏ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５９Ｎｉ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">６３Ｎｉ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">６５Ｚｎ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９０Ｓｒ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９４Ｎｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９５Ｎｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９９Ｔｃ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０６Ｒｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０８ｍＡｇ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１１０ｍＡｇ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２４Ｓｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２３ｍＴｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２９Ｉ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．０１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１３４Ｃｓ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１３７Ｃｓ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１３３Ｂａ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１５２Ｅｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１５４Ｅｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１６０Ｔｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１８２Ｔａ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２３９Ｐｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４１Ｐｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４１Ａｍ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="49">
+              <Sentence WritingMode="vertical">二　使用者が原子炉において燃料として使用した核燃料物質又は当該核燃料物質によって汚染された物を取り扱う使用施設等において用いた資材その他の物であって金属くず、コンクリート破片又はガラスくず（ロックウール及びグラスウールに限る。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３Ｈ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１４Ｃ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">４６Ｓｃ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５４Ｍｎ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５５Ｆｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５９Ｆｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">５８Ｃｏ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">６０Ｃｏ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">６５Ｚｎ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">８９Ｓｒ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９０Ｓｒ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９１Ｙ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９５Ｚｒ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９４Ｎｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">９５Ｎｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０３Ｒｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０６Ｒｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０８ｍＡｇ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１１０ｍＡｇ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１１４ｍＩｎ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１１３Ｓｎ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１１９ｍＳｎ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２３Ｓｎ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２４Ｓｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２５Ｓｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２５ｍＴｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２７ｍＴｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１２９ｍＴｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１３４Ｃｓ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１３７Ｃｓ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１４１Ｃｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１００</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１４４Ｃｅ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１４８ｍＰｍ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">３</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１５４Ｅｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１５５Ｅｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１５３Ｇｄ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１６０Ｔｂ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１８１Ｈｆ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１８２Ｔａ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２３８Ｐｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２３９Ｐｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４０Ｐｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４１Ｐｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４１Ａｍ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４２ｍＡｍ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４３Ａｍ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４２Ｃｍ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４３Ｃｍ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２４４Ｃｍ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="5">
+              <Sentence WritingMode="vertical">三　使用者が核燃料物質（ウラン及びその化合物に限る。）又は当該核燃料物質によって汚染された物を取り扱う使用施設等において用いた資材その他の物であって金属くず</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２３２Ｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">０．１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２３４Ｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２３５Ｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２３６Ｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１０</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">２３８Ｕ</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence WritingMode="vertical">１</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第１１条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/H17F20001000049_1909261109_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

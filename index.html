@@ -1,0 +1,417 @@
+<!DOCTYPE html><html><head>
+<meta charset="utf-8"/>
+<title>法令探し</title>
+<meta property="og:title" content="法令探し"/>
+<meta property="og:description" content="法令名から法令を探します（出典:法令API）"/>
+<link rel="icon" type="image/png" x-href="https://code4sabae.github.io/"/>
+<link rel="apple-touch-icon" x-href="https://code4sabae.github.io/"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://code4sabae.github.io/laws-jp/laws-jp.png"/>
+<meta property="og:image" content="https://code4sabae.github.io/laws-jp/laws-jp.png"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="format-detection" content="telephone=no"/>
+<style>
+body {
+	font-family: sans-serif;
+	font-size: 2vmax;
+	margin: 0;
+	color: white;
+  --main-color: #20388E;
+	background-color: var(--main-color);
+}
+input[type=text] {
+	max-width: 1000px;
+	width: 80vw;
+	margin: .5em .2em 0.2em .5em;
+	font-size: 24px;
+	border: 2px solid white;
+	line-height: 1.3em;
+	padding: 0.1em .3em;
+}
+button {
+	margin: .5em .2em 0em .2em;
+	font-size: 24px;
+	border: 2px solid white;
+	line-height: 1.3em;
+}
+h1 {
+	margin: 0;
+	padding: .3em .3em 0.3em .3em;
+	color: white;
+	font-size: 8vw;
+	text-align: center;
+}
+.subtitle {
+	color: #ddd;
+	font-size: 2vw;
+	text-align: center;
+}
+.subtitle > a {
+	color: #ddd !important;
+	x-text-decoration: none;
+}
+#selectboxes {
+	text-align: center;
+}
+#total {
+	text-align: center;
+	font-size: 80%;
+	margin-top: 1em;
+	margin-bottom: .5em;
+}
+h2 {
+	background-color: #F7F8F4;
+	padding: .2em 0em .5em 0em;
+	margin: 0;
+}
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.item {
+	background-color: #F5F5F5;
+	color: black;
+	padding: 1em;
+	margin: 1em;
+	line-height: 1.8em;
+}
+.item a {
+	color: #333 !important;
+}
+.url {
+	background-color: var(--main-color);
+	border-radius: 2vw;
+	font-weight: bold;
+	text-align: center;
+	padding: .5em;
+	margin-top: .5em;
+	margin-bottom: 1em;
+}
+.url > a {
+	display: block;
+	text-decoration: none;
+	color: white !important;
+}
+.searchboxid {
+	margin-top: 1em;
+	text-align: center;
+}
+.sitedesc {
+	font-size: 80%;
+	display: inline-block;
+}
+.sitedesc > a {
+	color: black !important;
+}
+.description {
+}
+.tags {
+	text-align: center;
+	margin: .6em;
+}
+.tags > div {
+	display: inline-block;
+	border: 1px solid black;
+	padding: 0 .3em;
+	font-size: 80%;
+	line-height: 1.8em;
+	background-color: white;
+	margin: .5em 0.2em;
+	cursor: pointer;
+}
+#morebtn {
+	display: none;
+	background-color: white;
+	border-radius: 2vw;
+	font-weight: bold;
+	text-align: center;
+	padding: .5em;
+	margin: .5em 3em 2em 3em;
+	cursor: pointer;
+}
+/* banner */
+#link {
+	margin: 1em;
+	text-align: center;
+}
+#link img {
+  width: 60vw;
+  border: 2px solid gray;
+}
+
+/* footer */
+#src {
+	margin: .5em;
+	text-align: center;
+	font-size: 90%;
+}
+#src a {
+	color: white !important;
+}
+#note {
+	font-size: 70%;
+	margin: 1em;
+}
+#note a {
+	color: white !important;
+}
+#share {
+	margin: 0 1em;
+	text-align: center;
+}
+#share > * {
+  vertical-align: bottom;
+}
+#fb-share-button {
+	display: inline-block;
+	margin: .1em;
+}
+#qrcodecontainer {
+	text-align: center;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+}
+</style>
+<script type='module'>
+
+import util from "https://taisukef.github.io/util/util.mjs";
+
+
+window.onload = async function() {
+  const url = "data/laws-jp2.csv";
+  const data = await util.fetchCSVtoJSON(url);
+	// const getAccessURL = (d) => "data/laws/" + d.xml;
+	const getAccessURL = (d) => {
+		const baseurl = "https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=";
+		const code = d.xml.substring(0, d.xml.indexOf("_"));
+		return baseurl + code;
+	};
+	showSearchPage(data, getAccessURL);
+};
+
+const showSearchPage = (data, getAccessURL) => {
+	// const IGNORE_NAMES = [ '教材ID', '提供URL', '機材', 'キーボード', '月', '注意事項など', 'No', '提供' ]
+	/*
+	const SHOW_NAMES = ['教材シリーズ名', '教材種別', '対象', '言語', '科目']
+	const SPLIT = [ '対象' ]
+	const SORT_KEY = { '対象': "小中高特大", '言語': '日英中韓', '科目': '国算数理社外英G' }
+	*/
+	const TITLE_NAME = "LawTitle";
+	const SORT_KEY = {};
+	const SHOW_NAMES = ["Era", "LawType"];
+	const SPLIT = [];
+	const EXCEPT_NAMES = [TITLE_NAME];
+	const SHUFFLE = false;
+	
+
+	for (const name in data[0]) {
+		// if (IGNORE_NAMES.indexOf(name) >= 0) continue
+		if (SHOW_NAMES.indexOf(name) === -1) { continue }
+		const list = []
+		const count = {}
+		for (const d of data) {
+			const v = d[name]
+			if (v && v.length > 0) {
+				if (SPLIT.indexOf(name) >= 0) {
+					const v2 = v.split('/')
+					for (const v3 of v2) {
+						if (list.indexOf(v3) == -1) {
+							list.push(v3)
+							count[v3] = 1
+						} else {
+							count[v3]++
+						}
+					}
+				} else {
+					if (list.indexOf(v) == -1) {
+						list.push(v)
+						count[v] = 1
+					} else {
+						count[v]++
+					}
+				}
+			}
+		}
+		const sortkey = SORT_KEY[name]
+		if (sortkey) {
+			//console.log(name, sortkey)
+			list.sort((a, b) => {
+				const n = sortkey.indexOf(a.charAt(0))
+				const m = sortkey.indexOf(b.charAt(0))
+				if (n != m) {
+					if (n >= 0 && m >= 0) {
+						return n - m
+					} else if (n < 0) {
+						return 1
+					} else if (m < 0) {
+						return -1
+					}
+				}
+				if (a > b) {
+					return 1
+				} else if (a < b) {
+					return -1
+				}
+				return 0
+			})
+		} else {
+			//list.sort()
+		}
+		//list.unshift(name)
+		if (list.length > 1) { // && list.length < 30) {
+			const sel = document.createElement("select")
+			const opt = document.createElement('option')
+			opt.textContent = name
+			sel.appendChild(opt)
+			for (const v of list) {
+				if (list.length < 30 || count[v] > data.length / 100) { // over 1%
+					const opt = document.createElement('option')
+					opt.textContent = v
+					sel.appendChild(opt)
+				}
+			}
+			selectboxes.appendChild(sel)
+		}
+	}
+
+	if (SHUFFLE) util.shuffle(data);
+
+	const show = function() {
+		const key = searchbox.value.normalize("NFKC")
+		main.innerHTML = ''
+
+		let hash = key
+		document.location.hash = hash.length > 0 ? '#' + encodeURIComponent(hash) : ""
+		const keys = key.replace(/　/g, ' ').split(' ')
+
+		const items = []
+		A: for (const d of data) {
+			if (key) {
+				for (const k of keys) {
+					let flg = false
+					for (const name in d) {
+						if (d[name].normalize("NFKC").indexOf(k) >= 0) {
+							flg = true
+							break
+						}
+					}
+					if (!flg)
+						continue A
+				}
+			}
+			for (let i = 0; i < selectboxes.children.length; i++) {
+				const sel = selectboxes.children[i]
+				if (sel.selectedIndex > 0) {
+					const v = sel.value
+					const v2 = d[sel.children[0].value]
+					if (!v2 || v2.indexOf(v) == -1) {
+						continue A
+					}
+				}
+			}
+			items.push(d)
+		}
+		const nppage = 15
+		for (let i = 0; i < items.length; i++) {
+			const d = items[i]
+			
+			const div = document.createElement('div')
+			div.className = "item"
+
+			const s = []
+			s.push(`<h2>${d[TITLE_NAME]}</h2>`)
+			for (const name in d) {
+				if (EXCEPT_NAMES.indexOf(name) >= 0)
+					continue
+				const v = d[name]
+				if (v)
+					s.push(`<div class=from>${name}：${v}</div>`)
+			}
+			// s.push(`<div class=from>提供：<a href=${d['提供URL']}>${d['教材シリーズ名']}</a></div>`)
+			s.push(`<div class=url><a href=${getAccessURL(d)} target=_blank>アクセスしてみる</a></div>`)
+			div.innerHTML = s.join("")
+				
+			div.style.display = i < nppage ? "block" : "none"
+			main.appendChild(div)
+		}
+		morebtn.cnt = nppage
+		morebtn.style.display = items.length > nppage ? "block" : 'none'
+		morebtn.onclick = function() {
+			let cnt = 0
+			for (let i = 0; i < nppage; i++) {
+				const c = main.children[this.cnt + i]
+				if (c) {
+					c.style.display = "block"
+					cnt++
+				}
+			}
+			this.cnt += cnt
+			console.log(cnt, this.cnt, )
+			this.style.display = this.cnt == items.length ? "none" : "block"
+		}
+
+		total.textContent = `ヒット${items.length}件 / 全${data.length}件`
+	}
+	searchbox.onkeyup = searchbox.onchange = show
+	searchbox.onfocus = function() {
+		this.select()
+	}
+	if (window['btnclear']) {
+		btnclear.onclick = function() {
+			searchbox.value = ''
+			show()
+		}
+	}
+
+	let chkflg = false
+	if (document.location.hash.length > 1) {
+		let key = decodeURIComponent(document.location.hash.substring(1))
+		/*
+		for (const chk in chktarget) {
+			const chkbox = document.getElementById(chk)
+			const lbl = chkbox.parentElement.textContent
+			if (key.endsWith(" " + lbl)) {
+				key = key.substring(0, key.length - 1 - lbl.length)
+				chkbox.checked = true
+				chkflg = true
+			}
+		}
+		*/
+		searchbox.value = key
+	}
+	show()
+
+	for (let i = 0; i < selectboxes.children.length; i++) {
+		const sel = selectboxes.children[i]
+		sel.onchange = show
+	}
+}
+
+</script>
+</head>
+<body>
+
+<div class='header'>
+	<h1 id='title'>法令探し</h1>
+	<div class='subtitle'>法令名や法令番号から一致するものを表示します（本文は検索対象に含みません）（出典:<a href='https://www.e-gov.go.jp/elaws/interface_api/index.html'>法令API</a>）</div>
+</div>
+
+<div class="container">
+<div class="searchboxid">
+	<input type='text' id='searchbox' placeholder="検索する単語を入力">
+</div>
+<div id="selectboxes"></div>
+<div id='total'></div>
+<div id="main"></div>
+<div id='morebtn'>もっとみる</div>
+
+<div id="note"></div>
+
+<div id="src">
+Data: <a href=https://fukuno.jig.jp/2820>法令リストオープンデータ</a> <a href=https://code4fukui.github.io/timetable/data/funs.csv>CSV</a>（出展、<a href=https://www.e-gov.go.jp/elaws/interface_api/index.html>法令API</a>）<br>
+App：<a href=https://code4fukui.github.io/timetable/search.html>法令探し</a> <a href=https://creativecommons.org/licenses/by/4.0/deed.ja>CC BY</a> <a href='https://fukuno.jig.jp/'>@taisukef</a> (<a href=https://github.com/code4fukui/timetable>src on GitHub</a>)<br>
+Design: <a href=https://creativecommons.org/licenses/by/4.0/deed.ja>CC BY</a> <a href=https://howmori.org/>HOWMORI</a> <a href=https://twitter.com/howmori>Takuya Yamagata</a><br>
+</div>
+
+</body>
+</html>

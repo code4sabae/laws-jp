@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Reiwa" Lang="ja" LawType="MinisterialOrdinance" Num="044" Year="01">
+  <LawNum>令和元年厚生労働省令第四十四号</LawNum>
+  <LawBody>
+    <LawTitle>社会保険診療報酬支払基金の医療機関等情報化補助業務に係る業務方法書に記載すべき事項を定める省令</LawTitle>
+    <EnactStatement>地域における医療及び介護の総合的な確保の促進に関する法律（平成元年法律第六十四号）第二十四条第二項に基づき、社会保険診療報酬支払基金の医療機関等情報化補助業務に係る業務方法書に記載すべき事項を定める省令を次のように定める。</EnactStatement>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">地域における医療及び介護の総合的な確保の促進に関する法律（平成元年法律第六十四号。以下「法」という。）第二十四条第二項の業務方法書に記載すべき事項は次に掲げるものとする。</Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical">法第二十三条第一号に規定する地域において効率的かつ質の高い医療提供体制を構築するための医療機関等の提供する医療に係る情報化の促進に要する費用の補助に関する事項</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical">その他社会保険診療報酬支払基金の医療機関等情報化補助業務（法第二十四条第一項に規定する医療機関等情報化補助業務をいう。）に関し必要な事項</Sentence>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、令和元年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

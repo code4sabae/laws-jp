@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="MinisterialOrdinance" Num="50" Year="22">
+  <LawNum>平成二十二年国土交通省令第五十号</LawNum>
+  <LawBody>
+    <LawTitle>国土調査法施行規則</LawTitle>
+    <EnactStatement>国土調査法（昭和二十六年法律第百八十号）第十条第二項の規定に基づき、国土調査法第十条第二項に規定する国土交通省令で定める要件を定める省令を次のように制定する。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（地籍調査に関する事業計画の様式等）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">国土調査法施行令（昭和二十七年政令第五十九号。次項において「令」という。）第八条の国土交通省令で定める様式は、別記様式とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">令第九条の規定による添付書類に記載しなければならない事項は、同条に規定する事項のほか、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">測量の方式</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">都道府県が負担する経費の予定額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">基準点の有無</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（国土調査の実施の委託の要件）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>国土調査法（昭和二十六年法律第百八十号。次条において「法」という。）第十条第二項に規定する国土交通省令で定める要件は、次のとおりとする。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国土調査を適確に実施するに足りる技術的な基礎を有するものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">法人の役員又は職員の構成が、国土調査の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">国土調査以外の業務を行っている場合には、その業務を行うことによって国土調査の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">前三号に定めるもののほか、国土調査を実施するにつき十分な適格性を有するものであること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（権限の委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">法第二十三条の四に規定する国土交通大臣の権限（地籍調査に係るものに限る。）は、地方整備局長及び北海道開発局長に委任する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、国土交通大臣が自ら行うことを妨げない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この省令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日国土交通省令第三七号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この省令は、令和二年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（地籍調査に関する事業計画の様式等を定める省令の廃止）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">地籍調査に関する事業計画の様式等を定める省令（昭和三十二年総理府令第三十五号）は、廃止する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxStyle>
+      <AppdxStyleTitle WritingMode="vertical">別記様式</AppdxStyleTitle>
+      <RelatedArticleNum>（第一条関係）</RelatedArticleNum>
+      <StyleStruct>
+        <Style>
+          <Fig src="./pict/R02F160037_2005221605_001.pdf"/>
+        </Style>
+      </StyleStruct>
+    </AppdxStyle>
+  </LawBody>
+</Law>

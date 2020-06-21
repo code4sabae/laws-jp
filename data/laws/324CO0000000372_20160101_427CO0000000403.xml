@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="CabinetOrder" Num="372" Year="24">
+  <LawNum>昭和二十四年政令第三百七十二号</LawNum>
+  <LawBody>
+    <LawTitle>検察官の職務を行う弁護士に給すべき手当の額を定める政令</LawTitle>
+    <EnactStatement>内閣は、刑事訴訟法（昭和二十三年法律第百三十一号）第二百六十八条第五項の規定に基き、この政令を制定する。</EnactStatement>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">刑事訴訟法第二百六十八条第一項又は検察審査会法（昭和二十三年法律第百四十七号）第四十一条の九第一項若しくは第四十一条の十一第二項の指定を受けた弁護士（以下「指定弁護士」という。）に給すべき手当の額は、その指定により公訴を維持すべき事件の審級ごとに、五十万円以上三百十五万円以下（上訴審及びその後の審級については、十九万円以上三百十五万円以下）の範囲内において、裁判所の相当と認める額とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、一審級の中途において指定を受けた者又は指定の取消しその他の事由により一審級の中途において職務を行わないこととなつた者に給すべき当該審級に関する手当の額は、三百十五万円以下の範囲内において、裁判所の相当と認める額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">指定弁護士がその職務により出張したときは、前条の手当の額は、同条に定める金額に公務により出張した一号の検事に対し国家公務員等の旅費に関する法律（昭和二十五年法律第百十四号）に基いて給すべき旅費の額に等しい金額を加算した額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="false" Type="New">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二六年四月六日政令第九一号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二八年四月一六日政令第七四号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行し、改正後の第一条の規定は、昭和二十八年一月一日以後に審級が終了した事件の当該審級に関する手当について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">昭和二十八年一月一日以後に審級が終了した事件の当該審級に関して、この政令の施行前にすでに手当が支給されている場合には、当該審級に関してこの政令による改正後の第一条の規定により裁判所が相当と認める額から一万円を控除した額をもつて、同条に定める金額とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四五年三月三日政令第一二号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行し、改正後の第一条の規定は、この政令の施行の日以後に審級が終了した事件の当該審級に関する手当について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五三年三月一日政令第二六号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行し、改正後の第一条の規定は、この政令の施行の日以後に審級が終了した事件の当該審級に関する手当について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年四月一日政令第一二八号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、公布の日から施行し、改正後の第一条の規定は、平成五年四月一日以後に審級が終了した事件の当該審級に関する手当について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年七月四日政令第二一八号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この政令は、刑事訴訟法等の一部を改正する法律（平成十六年法律第六十二号）附則第一条第二号に掲げる規定（同法第三条中検察審査会法第一条第一項の改正規定を除く。）の施行の日（平成二十一年五月二十一日）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年一二月四日政令第四〇三号" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この政令は、平成二十八年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2">
+        <ParagraphCaption>（経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">改正後の第一条の規定は、この政令の施行の日以後に審級が終了した事件の当該審級に関する手当について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
