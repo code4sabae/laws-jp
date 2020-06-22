@@ -1,13 +1,13 @@
 <!DOCTYPE html><html><head>
 <meta charset="utf-8"/>
-<title>法令探し（更新順）</title>
-<meta property="og:title" content="法令探し（更新順）!"/>
-<meta property="og:description" content="法令を検索して表示します 更新順に並びます（出典:法令API）"/>
+<title>法令探し</title>
+<meta property="og:title" content="法令探し"/>
+<meta property="og:description" content="法令名から法令を探します（出典:法令API）"/>
 <link rel="icon" type="image/png" x-href="https://code4sabae.github.io/laws-jp/laws-jp-icon.png"/>
 <link rel="apple-touch-icon" x-href="https://code4sabae.github.io/laws-jp/laws-jp-icon.png"/>
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://code4sabae.github.io/laws-jp/laws-jp-update.png"/>
-<meta property="og:image" content="https://code4sabae.github.io/laws-jp/laws-jp-update.png"/>
+<meta name="twitter:image" content="https://code4sabae.github.io/laws-jp/laws-jp.png"/>
+<meta property="og:image" content="https://code4sabae.github.io/laws-jp/laws-jp.png"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta name="format-detection" content="telephone=no"/>
 <style>
@@ -181,25 +181,6 @@ import util from "https://taisukef.github.io/util/util.mjs";
 window.onload = async function() {
   const url = "data/laws-jp2.csv";
   const data = await util.fetchCSVtoJSON(url);
-
-  const url2 = "data/laws-jp-update.csv";
-	const update = await util.fetchCSVtoJSON(url2);
-	console.log(update);
-
-	data.forEach((d) => {
-		const a = update.find((a) => a.xml === d.xml)
-		if (!a) {
-			d.dt = Number.MIN_VALUE;
-			return;
-		}
-		const date = a.update.split(";");
-		const date2 = new Date(date[date.length - 1]);
-		d.dt = date2.getTime();
-		d.lastUpdate = util.formatYMD(date2);
-		d.update = a.update;
-	});
-	data.sort((a, b) => b.dt - a.dt);
-
 	// const getAccessURL = (d) => "data/laws/" + d.xml;
 	const getAccessURL = (d) => {
 		const baseurl = "https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=";
@@ -310,7 +291,7 @@ const showSearchPage = (data, getAccessURL) => {
 				for (const k of keys) {
 					let flg = false
 					for (const name in d) {
-						if (d[name].toString().normalize("NFKC").indexOf(k) >= 0) {
+						if (d[name].normalize("NFKC").indexOf(k) >= 0) {
 							flg = true
 							break
 						}
@@ -412,8 +393,8 @@ const showSearchPage = (data, getAccessURL) => {
 <body>
 
 <div class='header'>
-	<h1 id='title'>法令探し（更新順）</h1>
-	<div class='subtitle'>法令名や法令番号から検索 2020-06-21更新（出典:<a href='https://www.e-gov.go.jp/elaws/interface_api/index.html'>法令API</a>）</div>
+	<h1 id='title'>法令探し</h1>
+	<div class='subtitle'>法令名や法令番号から一致するものを表示します（本文は検索対象に含みません）（出典:<a href='https://www.e-gov.go.jp/elaws/interface_api/index.html'>法令API</a>）</div>
 </div>
 
 <div class="container">
@@ -422,14 +403,14 @@ const showSearchPage = (data, getAccessURL) => {
 </div>
 <div id="selectboxes"></div>
 <div id='total'></div>
-<div id="main">&nbsp;&nbsp;読込＆準備中...</div>
+<div id="main"></div>
 <div id='morebtn'>もっとみる</div>
 
 <div id="note"></div>
 
 <div id="src">
 Data: <a href=https://fukuno.jig.jp/2887>法令リストオープンデータ</a> <a href=https://code4sabae.github.io/laws-jp/data/laws-jp2.csv>CSV</a>（出展、<a href=https://www.e-gov.go.jp/elaws/interface_api/index.html>法令API</a>）<br>
-App：<a href=https://fukuno.jig.jp/2888>法令探し</a>（<a href=create.html>作成順バージョン</a>） <a href=https://creativecommons.org/licenses/by/4.0/deed.ja>CC BY</a> <a href='https://fukuno.jig.jp/'>@taisukef</a> (<a href=https://github.com/code4sabae/laws-jp>src on GitHub</a>)<br>
+App：<a href=https://fukuno.jig.jp/2888>法令探し</a>（<a href="./">更新順バージョン</a>） <a href=https://creativecommons.org/licenses/by/4.0/deed.ja>CC BY</a> <a href='https://fukuno.jig.jp/'>@taisukef</a> (<a href=https://github.com/code4sabae/laws-jp>src on GitHub</a>)<br>
 Design: <a href=https://creativecommons.org/licenses/by/4.0/deed.ja>CC BY</a> <a href=https://howmori.org/>HOWMORI</a> <a href=https://twitter.com/howmori>Takuya Yamagata</a><br>
 </div>
 
